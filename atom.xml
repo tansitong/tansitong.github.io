@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.小T</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-23T02:06:04.837Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>sttan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>js数组一些常用方法</title>
+    <link href="http://yoursite.com/2019/05/17/array/"/>
+    <id>http://yoursite.com/2019/05/17/array/</id>
+    <published>2019-05-17T06:33:18.118Z</published>
+    <updated>2019-05-23T02:06:04.837Z</updated>
+    
+    <summary type="html">
+    
+      js数组专题
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="数组" scheme="http://yoursite.com/tags/%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>移动端布局——flex(常用)</title>
+    <link href="http://yoursite.com/2019/05/17/flex/"/>
+    <id>http://yoursite.com/2019/05/17/flex/</id>
+    <published>2019-05-17T02:31:53.492Z</published>
+    <updated>2019-05-23T02:01:41.010Z</updated>
+    
+    <summary type="html">
+    
+      移动端大量会用到的css布局方式
+    
+    </summary>
+    
+      <category term="css3" scheme="http://yoursite.com/categories/css3/"/>
+    
+    
+      <category term="html" scheme="http://yoursite.com/tags/html/"/>
+    
+      <category term="css3" scheme="http://yoursite.com/tags/css3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue部分知识点以及一些配置</title>
+    <link href="http://yoursite.com/2019/05/13/vueBiography/"/>
+    <id>http://yoursite.com/2019/05/13/vueBiography/</id>
+    <published>2019-05-13T02:46:09.758Z</published>
+    <updated>2019-05-23T01:45:59.470Z</updated>
+    
+    <summary type="html">
+    
+      使用vue开发的一些常用写法
+    
+    </summary>
+    
+      <category term="vue" scheme="http://yoursite.com/categories/vue/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>until.js</title>
+    <link href="http://yoursite.com/2019/05/10/basicJs/"/>
+    <id>http://yoursite.com/2019/05/10/basicJs/</id>
+    <published>2019-05-10T09:41:59.746Z</published>
+    <updated>2019-05-17T02:31:50.941Z</updated>
+    
+    <summary type="html">
+    
+      开发中会用到的工具方法
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="工具方法" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/"/>
+    
+      <category term="封装类" scheme="http://yoursite.com/tags/%E5%B0%81%E8%A3%85%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冷知识</title>
+    <link href="http://yoursite.com/2019/05/10/triviaIt/"/>
+    <id>http://yoursite.com/2019/05/10/triviaIt/</id>
+    <published>2019-05-10T03:50:59.677Z</published>
+    <updated>2019-05-13T03:43:11.468Z</updated>
+    
+    <summary type="html">
+    
+      可能平时会用到但是没有技术含量的小知识
+    
+    </summary>
+    
+      <category term="小技巧" scheme="http://yoursite.com/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="冷门" scheme="http://yoursite.com/tags/%E5%86%B7%E9%97%A8/"/>
+    
+      <category term="小技巧" scheme="http://yoursite.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="计算机" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开篇</title>
+    <link href="http://yoursite.com/2019/05/09/hello-world/"/>
+    <id>http://yoursite.com/2019/05/09/hello-world/</id>
+    <published>2019-05-09T02:52:19.474Z</published>
+    <updated>2019-05-13T02:23:35.832Z</updated>
+    
+    <summary type="html">
+    
+       
+    
+    </summary>
+    
+      <category term="记录生活" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
