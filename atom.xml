@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-23T02:06:04.837Z</updated>
+  <updated>2019-05-23T07:03:43.128Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webMap相关</title>
+    <link href="http://yoursite.com/2019/05/23/map/"/>
+    <id>http://yoursite.com/2019/05/23/map/</id>
+    <published>2019-05-23T03:07:21.955Z</published>
+    <updated>2019-05-23T07:03:43.128Z</updated>
+    
+    <summary type="html">
+    
+      关于js地图
+    
+    </summary>
+    
+      <category term="地图" scheme="http://yoursite.com/categories/%E5%9C%B0%E5%9B%BE/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="map" scheme="http://yoursite.com/tags/map/"/>
+    
+  </entry>
   
   <entry>
     <title>js数组一些常用方法</title>
